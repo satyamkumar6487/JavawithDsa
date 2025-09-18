@@ -11,10 +11,10 @@ public class DigitCount {
         int digit = 0;
         while(num !=  0 ){
 
-            if (num == 0) {
-                System.out.println(" code is finished");
-                break;
-            }
+//            if (num == 0) {
+//                System.out.println(" code is finished");
+//                break;
+//            }
          num = num /10 ;
 
          digit++;
