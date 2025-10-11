@@ -15,7 +15,7 @@ public class Pattern3 {
         {
 
      for ( int j = 1; j <= sp; j++){
-         System.out.println("*\t ");
+         System.out.println("\t");
      }
 
      for (int j = 1; j <= st; j ++){
