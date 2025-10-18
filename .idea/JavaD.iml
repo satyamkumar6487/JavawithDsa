@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Questions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Function" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/NumberSystem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practiceExercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arrays" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
