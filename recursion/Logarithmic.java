@@ -1,0 +1,26 @@
+public class Logarithmic {
+
+    public static void main(String [] args){
+
+        int res = power(2 , 4);
+        System.out.println(res);
+    }
+
+
+    static int power(int x , int n ){
+
+        if (n == 0){
+            return  1;
+
+        }
+
+        int xpnb2 = power(x , n/2);
+
+        int xn = xpnb2 * xpnb2;
+        if (n % 2 == 1){
+             xn = xn * x ;
+        }
+        return  xn;
+
+    }
+}
