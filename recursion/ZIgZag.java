@@ -15,11 +15,13 @@ public class ZIgZag {
             return;
         }
 
-        System.out.println(n);
+        System.out.println( "pre" + n);
         pzz(n-1);
 
-        System.out.println(n);
+        System.out.println("In" + n);
         pzz(n-1);
+
+        System.out.println("Post" + n);
 
     }
 
