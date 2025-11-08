@@ -19,6 +19,7 @@ tower(3, 1 , 2, 3);
 
 
         tower(n - 1, t3id, t2id, t1id);
+
     }
 
 }
